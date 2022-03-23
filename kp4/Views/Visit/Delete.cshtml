@@ -1,0 +1,71 @@
+﻿@model kp4.Models.Visit
+
+<h3>Вы действительно хотите это удалить?</h3>
+<div>
+    <h4>Посещение</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Patient.last_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Patient.last_name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Patient.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Patient.name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Patient.patronymic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Patient.patronymic)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Diagnosis.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Diagnosis.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Medicament.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Medicament.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.info)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.info)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Назад", "IndexForDoctor")
+        </div>
+    }
+</div>

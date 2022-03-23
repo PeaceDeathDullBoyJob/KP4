@@ -1,0 +1,64 @@
+﻿@model IEnumerable<kp4.Models.Visit>
+
+<p>
+
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Doctor.last_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Doctor.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Doctor.patronymic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Doctor.spec)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Diagnosis.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Medicament.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.info)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Doctor.last_name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Doctor.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Doctor.patronymic)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Doctor.spec)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Diagnosis.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Medicament.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.info)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.date)
+    </td>
+</tr>
+}
+
+</table>

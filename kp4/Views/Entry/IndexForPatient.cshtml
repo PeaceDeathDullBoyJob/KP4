@@ -1,0 +1,44 @@
+﻿@model IEnumerable<kp4.Models.Entry>
+
+<p>
+
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id_patient)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_doctor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_schedule)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Patient.last_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Doctor.last_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Schedule.date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StatusEntry.name)
+        </td>
+        <td>
+
+            @Html.ActionLink("Удалить", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

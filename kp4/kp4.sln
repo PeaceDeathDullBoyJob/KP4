@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kp4", "kp4.csproj", "{FA1CC3E0-36BA-4BD0-B240-D9E512522498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kp4.Tests", "..\kp4.Tests\kp4.Tests.csproj", "{2C5F9ECC-6830-496A-8D24-01A4F557BFEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{2ECD53E2-322D-4E86-A7E7-9CE667656A91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{209EB0D2-E400-4604-A5F3-C5B07E9D6FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1CC3E0-36BA-4BD0-B240-D9E512522498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1CC3E0-36BA-4BD0-B240-D9E512522498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1CC3E0-36BA-4BD0-B240-D9E512522498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1CC3E0-36BA-4BD0-B240-D9E512522498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5F9ECC-6830-496A-8D24-01A4F557BFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5F9ECC-6830-496A-8D24-01A4F557BFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5F9ECC-6830-496A-8D24-01A4F557BFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5F9ECC-6830-496A-8D24-01A4F557BFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397F1CAA-D9CD-4298-8115-8EC500CBF258}
+	EndGlobalSection
+EndGlobal

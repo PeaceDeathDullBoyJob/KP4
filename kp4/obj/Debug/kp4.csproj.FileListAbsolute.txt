@@ -1,0 +1,762 @@
+C:\Users\User\source\repos\kp4\bin\kp4.dll.config
+C:\Users\User\source\repos\kp4\bin\kp4.dll
+C:\Users\User\source\repos\kp4\bin\kp4.pdb
+C:\Users\User\source\repos\kp4\bin\roslyn\csc.exe
+C:\Users\User\source\repos\kp4\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\kp4\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\kp4\bin\roslyn\csi.exe
+C:\Users\User\source\repos\kp4\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\kp4\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\kp4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Net.Http.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\kp4\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\kp4\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\kp4\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\kp4\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\kp4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\kp4\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\kp4\bin\EntityFramework.dll
+C:\Users\User\source\repos\kp4\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\source\repos\kp4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\kp4\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\kp4\bin\Owin.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\kp4\bin\WebGrease.dll
+C:\Users\User\source\repos\kp4\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\kp4\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\kp4\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\kp4\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\kp4\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\kp4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\kp4\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\kp4\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\kp4\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\kp4\bin\EntityFramework.xml
+C:\Users\User\source\repos\kp4\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\source\repos\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\kp4\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\User\source\repos\kp4\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\User\source\repos\kp4\obj\Debug\kp4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\kp4\obj\Debug\kp4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kp4\obj\Debug\kp4.csproj.CopyComplete
+C:\Users\User\source\repos\kp4\obj\Debug\kp4.dll
+C:\Users\User\source\repos\kp4\obj\Debug\kp4.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\kp4.dll.config
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\kp4.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\kp4.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\csc.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\csc.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\csc.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\csi.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\csi.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\csi.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.AppContext.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Console.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.IO.Compression.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Net.Http.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.ValueTuple.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\vbc.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\vbc.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\vbc.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\VBCSCompiler.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Antlr3.Runtime.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\EntityFramework.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\EntityFramework.SqlServer.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Newtonsoft.Json.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Helpers.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Mvc.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Optimization.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Razor.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.WebPages.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.WebPages.Razor.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\WebGrease.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Helpers.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Mvc.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Optimization.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.Razor.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.WebPages.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\System.Web.WebPages.Razor.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Newtonsoft.Json.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Antlr3.Runtime.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\EntityFramework.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\EntityFramework.SqlServer.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\System.Web.Razor.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\EntityFramework.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\obj\Debug\kp4.csprojAssemblyReference.cache
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\obj\Debug\kp4.csproj.CoreCompileInputs.cache
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\obj\Debug\kp4.csproj.CopyComplete
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\obj\Debug\kp4.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КП2\kp4\obj\Debug\kp4.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\kp4.dll.config
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\kp4.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\kp4.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\csc.exe
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\csc.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\csc.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\csi.exe
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\csi.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\csi.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.AppContext.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Console.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.IO.Compression.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Net.Http.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.ValueTuple.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\vbc.exe
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\vbc.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\vbc.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\VBCSCompiler.exe
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Antlr3.Runtime.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\EntityFramework.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\EntityFramework.SqlServer.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Newtonsoft.Json.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Helpers.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Mvc.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Optimization.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Razor.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.WebPages.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.WebPages.Razor.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\WebGrease.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Helpers.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Mvc.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Optimization.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.Razor.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.WebPages.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\System.Web.WebPages.Razor.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Newtonsoft.Json.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Antlr3.Runtime.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\EntityFramework.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\EntityFramework.SqlServer.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\System.Web.Razor.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\EntityFramework.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\obj\Debug\kp4.csprojAssemblyReference.cache
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\obj\Debug\kp4.csproj.CoreCompileInputs.cache
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\obj\Debug\kp4.csproj.CopyComplete
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\obj\Debug\kp4.dll
+C:\Users\mari-\OneDrive\Рабочий стол\kp4\obj\Debug\kp4.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\kp4.dll.config
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\kp4.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\kp4.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\csc.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\csc.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\csc.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\csi.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\csi.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\csi.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.AppContext.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Console.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.IO.Compression.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Net.Http.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.ValueTuple.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\vbc.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\vbc.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\vbc.rsp
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\VBCSCompiler.exe
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Antlr3.Runtime.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\EntityFramework.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\EntityFramework.SqlServer.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Newtonsoft.Json.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Owin.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Helpers.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Mvc.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Optimization.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Razor.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.WebPages.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Razor.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\WebGrease.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Helpers.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Mvc.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Optimization.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.Razor.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.WebPages.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Razor.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Newtonsoft.Json.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Antlr3.Runtime.pdb
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\EntityFramework.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\EntityFramework.SqlServer.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\System.Web.Razor.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\EntityFramework.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\obj\Debug\kp4.csprojAssemblyReference.cache
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\obj\Debug\kp4.csproj.CoreCompileInputs.cache
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\obj\Debug\kp4.csproj.CopyComplete
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\obj\Debug\kp4.dll
+C:\Users\mari-\OneDrive\Рабочий стол\КУРСОВАЯ\kp4\obj\Debug\kp4.pdb
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\kp4.dll.config
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\kp4.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\kp4.pdb
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\csc.exe
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\csc.exe.config
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\csc.rsp
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\csi.exe
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\csi.exe.config
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\csi.rsp
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.AppContext.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Console.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Net.Http.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\vbc.exe
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\vbc.exe.config
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\vbc.rsp
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Antlr3.Runtime.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\EntityFramework.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\EntityFramework.SqlServer.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Newtonsoft.Json.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Owin.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Helpers.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Mvc.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Optimization.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Razor.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.WebPages.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\WebGrease.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Helpers.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Mvc.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Optimization.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.Razor.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.WebPages.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Newtonsoft.Json.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Antlr3.Runtime.pdb
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\EntityFramework.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\EntityFramework.SqlServer.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\EntityFramework.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\obj\Debug\kp4.csproj.AssemblyReference.cache
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\obj\Debug\kp4.csproj.CoreCompileInputs.cache
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\obj\Debug\kp4.csproj.CopyComplete
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\obj\Debug\kp4.dll
+C:\Users\alexz\Desktop\КУРСОВАЯ\kp4\obj\Debug\kp4.pdb
+C:\kp4\obj\Debug\kp4.csproj.AssemblyReference.cache
+C:\kp4\obj\Debug\kp4.csproj.CoreCompileInputs.cache
+C:\kp4\obj\Debug\kp4.dll
+C:\kp4\obj\Debug\kp4.pdb
+C:\kp4\bin\kp4.dll.config
+C:\kp4\bin\kp4.dll
+C:\kp4\bin\kp4.pdb
+C:\kp4\bin\roslyn\csc.exe
+C:\kp4\bin\roslyn\csc.exe.config
+C:\kp4\bin\roslyn\csc.rsp
+C:\kp4\bin\roslyn\csi.exe
+C:\kp4\bin\roslyn\csi.exe.config
+C:\kp4\bin\roslyn\csi.rsp
+C:\kp4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\kp4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\kp4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\kp4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\kp4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\kp4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\kp4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\kp4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\kp4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\kp4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\kp4\bin\roslyn\System.AppContext.dll
+C:\kp4\bin\roslyn\System.Collections.Immutable.dll
+C:\kp4\bin\roslyn\System.Console.dll
+C:\kp4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\kp4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\kp4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\kp4\bin\roslyn\System.Globalization.Calendars.dll
+C:\kp4\bin\roslyn\System.IO.Compression.dll
+C:\kp4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\kp4\bin\roslyn\System.IO.FileSystem.dll
+C:\kp4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\kp4\bin\roslyn\System.Net.Http.dll
+C:\kp4\bin\roslyn\System.Net.Sockets.dll
+C:\kp4\bin\roslyn\System.Reflection.Metadata.dll
+C:\kp4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\kp4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\kp4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\kp4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\kp4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\kp4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\kp4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\kp4\bin\roslyn\System.ValueTuple.dll
+C:\kp4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\kp4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\kp4\bin\roslyn\System.Xml.XPath.dll
+C:\kp4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\kp4\bin\roslyn\vbc.exe
+C:\kp4\bin\roslyn\vbc.exe.config
+C:\kp4\bin\roslyn\vbc.rsp
+C:\kp4\bin\roslyn\VBCSCompiler.exe
+C:\kp4\bin\roslyn\VBCSCompiler.exe.config
+C:\kp4\bin\Antlr3.Runtime.dll
+C:\kp4\bin\EntityFramework.dll
+C:\kp4\bin\EntityFramework.SqlServer.dll
+C:\kp4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\kp4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\kp4\bin\Microsoft.Owin.dll
+C:\kp4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\kp4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\kp4\bin\Microsoft.Owin.Security.dll
+C:\kp4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\kp4\bin\Microsoft.Owin.Security.Google.dll
+C:\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\kp4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\kp4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\kp4\bin\Microsoft.Web.Infrastructure.dll
+C:\kp4\bin\Newtonsoft.Json.dll
+C:\kp4\bin\Owin.dll
+C:\kp4\bin\System.Web.Helpers.dll
+C:\kp4\bin\System.Web.Mvc.dll
+C:\kp4\bin\System.Web.Optimization.dll
+C:\kp4\bin\System.Web.Razor.dll
+C:\kp4\bin\System.Web.WebPages.Deployment.dll
+C:\kp4\bin\System.Web.WebPages.dll
+C:\kp4\bin\System.Web.WebPages.Razor.dll
+C:\kp4\bin\WebGrease.dll
+C:\kp4\bin\System.Web.Helpers.xml
+C:\kp4\bin\System.Web.Mvc.xml
+C:\kp4\bin\System.Web.Optimization.xml
+C:\kp4\bin\System.Web.Razor.xml
+C:\kp4\bin\System.Web.WebPages.xml
+C:\kp4\bin\System.Web.WebPages.Deployment.xml
+C:\kp4\bin\System.Web.WebPages.Razor.xml
+C:\kp4\bin\Newtonsoft.Json.xml
+C:\kp4\bin\Antlr3.Runtime.pdb
+C:\kp4\bin\EntityFramework.xml
+C:\kp4\bin\EntityFramework.SqlServer.xml
+C:\kp4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\kp4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\kp4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\kp4\bin\Microsoft.Owin.xml
+C:\kp4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\kp4\bin\Microsoft.Owin.Security.xml
+C:\kp4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\kp4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\kp4\bin\Microsoft.Owin.Security.Google.xml
+C:\kp4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\kp4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\kp4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\kp4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\kp4\bin\ru\System.Web.Helpers.resources.dll
+C:\kp4\bin\ru\System.Web.Mvc.resources.dll
+C:\kp4\bin\ru\System.Web.Optimization.resources.dll
+C:\kp4\bin\ru\System.Web.Razor.resources.dll
+C:\kp4\bin\ru\System.Web.WebPages.resources.dll
+C:\kp4\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\kp4\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\kp4\bin\ru\EntityFramework.resources.dll
+C:\kp4\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\kp4\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\kp4\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\kp4\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\kp4\bin\ru\Microsoft.Owin.resources.dll
+C:\kp4\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\kp4\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\kp4\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\kp4\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\kp4\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\kp4\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\kp4\obj\Debug\kp4.csproj.CopyComplete

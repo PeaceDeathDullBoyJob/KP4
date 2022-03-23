@@ -1,0 +1,18 @@
+﻿@model kp4.Models.Doctor
+
+
+<h3>Вы действительно хотите удалить аккаунт врача?</h3>
+<div>
+    <hr />
+   
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Назад", "/")
+        </div>
+    }
+</div>

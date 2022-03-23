@@ -1,0 +1,73 @@
+﻿@model kp4.Models.Patient
+
+<div>
+    <h4>Пациент</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.last_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.last_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.patronymic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.patronymic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.adress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.adress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Doctor.last_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Doctor.last_name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Doctor.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Doctor.name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Doctor.patronymic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Doctor.patronymic)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Изменить", "Edit", new { id = Model.id }) |
+
+</p>

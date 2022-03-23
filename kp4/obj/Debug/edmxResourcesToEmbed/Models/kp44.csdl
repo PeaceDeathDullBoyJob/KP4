@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kp1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Diagnosis">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Visit" Relationship="Self.FK_Visit_ToTable_2" FromRole="Diagnosis" ToRole="Visit" />
+  </EntityType>
+  <EntityType Name="Doctor">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="last_name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="patronymic" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="adress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="cabinet" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="spec" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Name="date" Type="DateTime" Precision="0" />
+    <Property Name="login" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Entry" Relationship="Self.FK_Entry_ToTable_1" FromRole="Doctor" ToRole="Entry" />
+    <NavigationProperty Name="Patient" Relationship="Self.FK_Patient_ToTable" FromRole="Doctor" ToRole="Patient" />
+    <NavigationProperty Name="Schedule" Relationship="Self.FK_Schedule_ToTable" FromRole="Doctor" ToRole="Schedule" />
+    <NavigationProperty Name="Visit" Relationship="Self.FK_Visit_ToTable" FromRole="Doctor" ToRole="Visit" />
+  </EntityType>
+  <EntityType Name="Entry">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_patient" Type="Int32" />
+    <Property Name="id_doctor" Type="Int32" />
+    <Property Name="id_schedule" Type="Int32" />
+    <Property Name="id_status" Type="Int32" />
+    <NavigationProperty Name="Doctor" Relationship="Self.FK_Entry_ToTable_1" FromRole="Entry" ToRole="Doctor" />
+    <NavigationProperty Name="StatusEntry" Relationship="Self.FK_Entry_StatusEntry" FromRole="Entry" ToRole="StatusEntry" />
+    <NavigationProperty Name="Patient" Relationship="Self.FK_Entry_ToTable" FromRole="Entry" ToRole="Patient" />
+    <NavigationProperty Name="Schedule" Relationship="Self.FK_Entry_ToTable_2" FromRole="Entry" ToRole="Schedule" />
+  </EntityType>
+  <EntityType Name="Medicament">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Visit" Relationship="Self.FK_Visit_ToTable_3" FromRole="Medicament" ToRole="Visit" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="last_name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="patronymic" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="adress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="date" Type="DateTime" Precision="0" />
+    <Property Name="id_doctor" Type="Int32" />
+    <Property Name="login" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Doctor" Relationship="Self.FK_Patient_ToTable" FromRole="Patient" ToRole="Doctor" />
+    <NavigationProperty Name="Entry" Relationship="Self.FK_Entry_ToTable" FromRole="Patient" ToRole="Entry" />
+    <NavigationProperty Name="Visit" Relationship="Self.FK_Visit_ToTable_1" FromRole="Patient" ToRole="Visit" />
+  </EntityType>
+  <EntityType Name="Schedule">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_doctor" Type="Int32" />
+    <Property Name="date" Type="DateTime" Precision="3" />
+    <Property Name="status" Type="Boolean" />
+    <NavigationProperty Name="Doctor" Relationship="Self.FK_Schedule_ToTable" FromRole="Schedule" ToRole="Doctor" />
+    <NavigationProperty Name="Entry" Relationship="Self.FK_Entry_ToTable_2" FromRole="Schedule" ToRole="Entry" />
+  </EntityType>
+  <EntityType Name="StatusEntry">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Entry" Relationship="Self.FK_Entry_StatusEntry" FromRole="StatusEntry" ToRole="Entry" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Visit">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_doctor" Type="Int32" />
+    <Property Name="id_patient" Type="Int32" />
+    <Property Name="id_diagnosis" Type="Int32" />
+    <Property Name="id_medicament" Type="Int32" />
+    <Property Name="info" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="date" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Diagnosis" Relationship="Self.FK_Visit_ToTable_2" FromRole="Visit" ToRole="Diagnosis" />
+    <NavigationProperty Name="Doctor" Relationship="Self.FK_Visit_ToTable" FromRole="Visit" ToRole="Doctor" />
+    <NavigationProperty Name="Medicament" Relationship="Self.FK_Visit_ToTable_3" FromRole="Visit" ToRole="Medicament" />
+    <NavigationProperty Name="Patient" Relationship="Self.FK_Visit_ToTable_1" FromRole="Visit" ToRole="Patient" />
+  </EntityType>
+  <Association Name="FK_Visit_ToTable_2">
+    <End Role="Diagnosis" Type="Self.Diagnosis" Multiplicity="0..1" />
+    <End Role="Visit" Type="Self.Visit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Diagnosis">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Visit">
+        <PropertyRef Name="id_diagnosis" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Entry_ToTable_1">
+    <End Role="Doctor" Type="Self.Doctor" Multiplicity="0..1" />
+    <End Role="Entry" Type="Self.Entry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Entry">
+        <PropertyRef Name="id_doctor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Patient_ToTable">
+    <End Role="Doctor" Type="Self.Doctor" Multiplicity="0..1" />
+    <End Role="Patient" Type="Self.Patient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Patient">
+        <PropertyRef Name="id_doctor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Schedule_ToTable">
+    <End Role="Doctor" Type="Self.Doctor" Multiplicity="0..1" />
+    <End Role="Schedule" Type="Self.Schedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Schedule">
+        <PropertyRef Name="id_doctor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Visit_ToTable">
+    <End Role="Doctor" Type="Self.Doctor" Multiplicity="0..1" />
+    <End Role="Visit" Type="Self.Visit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Visit">
+        <PropertyRef Name="id_doctor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Entry_StatusEntry">
+    <End Role="StatusEntry" Type="Self.StatusEntry" Multiplicity="1" />
+    <End Role="Entry" Type="Self.Entry" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="StatusEntry">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Entry">
+        <PropertyRef Name="id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Entry_ToTable">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="0..1" />
+    <End Role="Entry" Type="Self.Entry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Entry">
+        <PropertyRef Name="id_patient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Entry_ToTable_2">
+    <End Role="Schedule" Type="Self.Schedule" Multiplicity="0..1" />
+    <End Role="Entry" Type="Self.Entry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Schedule">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Entry">
+        <PropertyRef Name="id_schedule" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Visit_ToTable_3">
+    <End Role="Medicament" Type="Self.Medicament" Multiplicity="0..1" />
+    <End Role="Visit" Type="Self.Visit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Medicament">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Visit">
+        <PropertyRef Name="id_medicament" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Visit_ToTable_1">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="0..1" />
+    <End Role="Visit" Type="Self.Visit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Visit">
+        <PropertyRef Name="id_patient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="kp44Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Diagnosis" EntityType="Self.Diagnosis" />
+    <EntitySet Name="Doctor" EntityType="Self.Doctor" />
+    <EntitySet Name="Entry" EntityType="Self.Entry" />
+    <EntitySet Name="Medicament" EntityType="Self.Medicament" />
+    <EntitySet Name="Patient" EntityType="Self.Patient" />
+    <EntitySet Name="Schedule" EntityType="Self.Schedule" />
+    <EntitySet Name="StatusEntry" EntityType="Self.StatusEntry" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Visit" EntityType="Self.Visit" />
+    <AssociationSet Name="FK_Visit_ToTable_2" Association="Self.FK_Visit_ToTable_2">
+      <End Role="Diagnosis" EntitySet="Diagnosis" />
+      <End Role="Visit" EntitySet="Visit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Entry_ToTable_1" Association="Self.FK_Entry_ToTable_1">
+      <End Role="Doctor" EntitySet="Doctor" />
+      <End Role="Entry" EntitySet="Entry" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Patient_ToTable" Association="Self.FK_Patient_ToTable">
+      <End Role="Doctor" EntitySet="Doctor" />
+      <End Role="Patient" EntitySet="Patient" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Schedule_ToTable" Association="Self.FK_Schedule_ToTable">
+      <End Role="Doctor" EntitySet="Doctor" />
+      <End Role="Schedule" EntitySet="Schedule" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Visit_ToTable" Association="Self.FK_Visit_ToTable">
+      <End Role="Doctor" EntitySet="Doctor" />
+      <End Role="Visit" EntitySet="Visit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Entry_StatusEntry" Association="Self.FK_Entry_StatusEntry">
+      <End Role="StatusEntry" EntitySet="StatusEntry" />
+      <End Role="Entry" EntitySet="Entry" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Entry_ToTable" Association="Self.FK_Entry_ToTable">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Entry" EntitySet="Entry" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Entry_ToTable_2" Association="Self.FK_Entry_ToTable_2">
+      <End Role="Schedule" EntitySet="Schedule" />
+      <End Role="Entry" EntitySet="Entry" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Visit_ToTable_3" Association="Self.FK_Visit_ToTable_3">
+      <End Role="Medicament" EntitySet="Medicament" />
+      <End Role="Visit" EntitySet="Visit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Visit_ToTable_1" Association="Self.FK_Visit_ToTable_1">
+      <End Role="Patient" EntitySet="Patient" />
+      <End Role="Visit" EntitySet="Visit" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

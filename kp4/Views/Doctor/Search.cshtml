@@ -1,0 +1,57 @@
+﻿@model IEnumerable<kp4.Models.Doctor>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.last_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.patronymic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cabinet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.spec)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.last_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.patronymic)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.cabinet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.spec)
+            </td>
+
+            <td>
+                @Html.ActionLink("Записаться", "AddEntry", new { iddoctor = item.id }) |
+                @{ if (User.IsInRole("admin"))
+                    {
+                        @Html.ActionLink("Edit", "Edit", new { id = item.id })
+                        @Html.ActionLink("Details", "Details", new { id = item.id })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                    }
+                }
+            </td>
+        </tr>
+    }
+
+</table>
