@@ -91,6 +91,7 @@ namespace kp4.Controllers
         [HttpPost, ActionName("Delete")]
         public ActionResult DeleteOne(int id)
         {
+            db.Visit.RemoveRange(db.Visit.Where(x => x.id_diagnosis == id));
             db.Diagnosis.Remove(db.Diagnosis.Find(id));
             db.SaveChanges();
             return RedirectToAction("Index");
